@@ -1,0 +1,9 @@
+C:\Users\SAP\source\repos\DBexample\DBexample\bin\Debug\DBexample.exe.config
+C:\Users\SAP\source\repos\DBexample\DBexample\bin\Debug\DBexample.exe
+C:\Users\SAP\source\repos\DBexample\DBexample\bin\Debug\DBexample.pdb
+C:\Users\SAP\source\repos\DBexample\DBexample\obj\Debug\DBexample.csprojAssemblyReference.cache
+C:\Users\SAP\source\repos\DBexample\DBexample\obj\Debug\DBexample.csproj.CoreCompileInputs.cache
+C:\Users\SAP\source\repos\DBexample\DBexample\obj\Debug\DBexample.exe
+C:\Users\SAP\source\repos\DBexample\DBexample\obj\Debug\DBexample.pdb
+C:\Users\SAP\source\repos\DBexample\DBexample\bin\Debug\Oracle.DataAccess.dll
+C:\Users\SAP\source\repos\DBexample\DBexample\obj\Debug\DBexample.csproj.CopyComplete
